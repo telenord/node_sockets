@@ -1,0 +1,16 @@
+{
+  "name": "node_sockets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:telenord/node_sockets.git",
+  "author": "akuzmichev <kuzspace@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3",
+    "socket.io": "^2.1.0"
+  }
+}
